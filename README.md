@@ -44,4 +44,4 @@ The gearbox receives power from an 11 kW motor through a V-belt drive. Speed red
 ## Authors
 
 * Ali Sakhaei
-* Mohammadreza Sotude
+* Mohammadreza Sotoudeh
